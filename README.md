@@ -17,7 +17,7 @@ A simple and efficient **Expense & Budget Tracker** application designed to help
 
 * **Backend:** Python / Django (or Flask)
 * **Frontend:** HTML, CSS, Tailwind, JavaScript
-* **Database:** SQLite / MySQL
+* **Database:** MySQL
 ---
 
 ## 📂 Project Structure
